@@ -15,7 +15,6 @@ To create a Simulink model using the Vehicle Dynamics Blockset™ that simulates
 
 ## Version Used : MATLAB R2023b
 
----
 # How to run the trained files uploaded accordingly to obtain the output:
 
 Open Matlab R2023b, load all the files you have downloaded to the directory.
