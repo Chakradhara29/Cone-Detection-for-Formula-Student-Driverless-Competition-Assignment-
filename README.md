@@ -9,7 +9,7 @@ Here’s a comprehensive guide to implementing and testing an object detection a
 
 ## Objective
 
-To create a Simulink model using the Vehicle Dynamics Blockset™ that simulates a skidpad test environment, incorporates a camera for visual input, and detects cones in real-time at a vehicle speed of 30 km/h. The algorithm will leverage deep learning techniques, such as YOLO v2, to identify cones and evaluate detection accuracy.
+To create a Simulink model using the Vehicle Dynamics Blockset™ that simulates a skidpad test environment, incorporates a camera for visual input, and detects cones in real-time. The algorithm will leverage deep learning techniques, such as YOLO v2, to identify cones and evaluate detection accuracy.
 
 ---
 
